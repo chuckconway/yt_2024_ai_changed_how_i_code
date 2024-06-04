@@ -1,0 +1,92 @@
+[
+  {
+    "Username": "musiclover87",
+    "Lastname": "Smith",
+    "Firstname": "Alice",
+    "Birthdate": "1987-06-12",
+    "Password": "password123",
+    "FavoriteIceCream": "Chocolate Chip Cookie Dough",
+    "FavoriteSuperhero": "Spider-Man"
+  },
+  {
+    "Username": "bookworm92",
+    "Lastname": "Johnson",
+    "Firstname": "Bob",
+    "Birthdate": "1992-03-21",
+    "Password": "securePassword",
+    "FavoriteIceCream": "Mint Chocolate Chip",
+    "FavoriteSuperhero": "Batman"
+  },
+  {
+    "Username": "gamergirl01",
+    "Lastname": "Williams",
+    "Firstname": "Carol",
+    "Birthdate": "2001-11-05",
+    "Password": "gamer4life",
+    "FavoriteIceCream": "Strawberry",
+    "FavoriteSuperhero": "Wonder Woman"
+  },
+  {
+    "Username": "techieguy95",
+    "Lastname": "Brown",
+    "Firstname": "David",
+    "Birthdate": "1995-08-18",
+    "Password": "techmaster",
+    "FavoriteIceCream": "Vanilla Bean",
+    "FavoriteSuperhero": "Iron Man"
+  },
+  {
+    "Username": "foodiequeen89",
+    "Lastname": "Davis",
+    "Firstname": "Emily",
+    "Birthdate": "1989-04-29",
+    "Password": "delicious123",
+    "FavoriteIceCream": "Salted Caramel",
+    "FavoriteSuperhero": "Captain Marvel"
+  },
+  {
+    "Username": "traveler76",
+    "Lastname": "Miller",
+    "Firstname": "Frank",
+    "Birthdate": "1976-12-02",
+    "Password": "adventuretime",
+    "FavoriteIceCream": "Coffee",
+    "FavoriteSuperhero": "Thor"
+  },
+  {
+    "Username": "fitnessfanatic98",
+    "Lastname": "Wilson",
+    "Firstname": "Grace",
+    "Birthdate": "1998-09-15",
+    "Password": "strongandfit",
+    "FavoriteIceCream": "Mango Sorbet",
+    "FavoriteSuperhero": "Black Widow"
+  },
+  {
+    "Username": "photographylover85",
+    "Lastname": "Moore",
+    "Firstname": "Henry",
+    "Birthdate": "1985-05-23",
+    "Password": "pictureperfect",
+    "FavoriteIceCream": "Pistachio",
+    "FavoriteSuperhero": "Superman"
+  },
+  {
+    "Username": "musicjunkie93",
+    "Lastname": "Taylor",
+    "Firstname": "Isabella",
+    "Birthdate": "1993-02-08",
+    "Password": "musicislife",
+    "FavoriteIceCream": "Rocky Road",
+    "FavoriteSuperhero": "Black Panther"
+  },
+  {
+    "Username": "sportsfanatic88",
+    "Lastname": "Anderson",
+    "Firstname": "Jack",
+    "Birthdate": "1988-10-30",
+    "Password": "goteamgo",
+    "FavoriteIceCream": "Cookies and Cream",
+    "FavoriteSuperhero": "Captain America"
+  }
+]
